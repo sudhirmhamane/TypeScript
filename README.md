@@ -1,36 +1,6 @@
 # TypeScript Repository 🚀
 
-A structured TypeScript learning, Designed for learning, revision, and reference.
-
-## Project Structure
-
-TypeScript/
-│
-├── src/
-│ ├── 01_index.ts
-│ ├── 02_typesInTS.ts
-│ ├── 03_union_any.ts
-│ ├── 04_type_narrowing_and.ts
-│ ├── 05_moreTypes.ts
-│ ├── 06_interface.ts
-│ ├── 07_objects.ts
-│ ├── 08_functions.ts
-│ ├── 09_array_enum_tuples.ts
-│ ├── 10_oop.ts
-│ ├── 11_interfaceAdv.ts
-│ ├── 12_generics.ts
-│ └── 13_webReq.ts
-│
-├── Notes/
-│ ├── 01_basics.md
-│ ├── 02_working.md
-│ └── 03_annotations_inference.md
-│
-├── dist/
-├── package.json
-├── package-lock.json
-├── tsconfig.json
-└── README.md
+A structured TypeScript learning project, Designed for learning, revision, and reference.
 
 ---
 
